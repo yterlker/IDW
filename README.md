@@ -1,4 +1,3 @@
-这是一些数据和代码
 安装库
 concurrent: Standard Library
 numpy: 1.24.3
